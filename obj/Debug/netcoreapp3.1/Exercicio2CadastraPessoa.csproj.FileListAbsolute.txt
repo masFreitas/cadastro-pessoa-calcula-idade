@@ -1,0 +1,26 @@
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/bin/Debug/netcoreapp3.1/Exercicio2CadastraPessoa
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/bin/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.deps.json
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/bin/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.runtimeconfig.json
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/bin/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.runtimeconfig.dev.json
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/bin/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.dll
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/bin/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.pdb
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/obj/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.csprojAssemblyReference.cache
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/obj/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.AssemblyInfoInputs.cache
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/obj/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.AssemblyInfo.cs
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/obj/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/obj/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.dll
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/obj/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.pdb
+/home/klaathus/Documents/Desenvolvimento de Sistemas II/Aula 3 - 18.08/Exercicio2CadastraPessoa/obj/Debug/netcoreapp3.1/Exercicio2CadastraPessoa.genruntimeconfig.cache
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\bin\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.exe
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\bin\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.deps.json
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\bin\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.runtimeconfig.json
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\bin\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.runtimeconfig.dev.json
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\bin\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.dll
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\bin\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.pdb
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\obj\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.csprojAssemblyReference.cache
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\obj\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.AssemblyInfoInputs.cache
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\obj\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.AssemblyInfo.cs
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\obj\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.csproj.CoreCompileInputs.cache
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\obj\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.dll
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\obj\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.pdb
+G:\Meu Drive\2o Semestre\Desenvolvimento Software II\Aula 3 - 18.08\Exercicio2CadastraPessoa\obj\Debug\netcoreapp3.1\Exercicio2CadastraPessoa.genruntimeconfig.cache
